@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D434-9760
+
+ Directory of C:\Users\Soumyadeep\Desktop\MyProject1
+
+10-07-2017  23:40    <DIR>          .
+10-07-2017  23:40    <DIR>          ..
+10-07-2017  23:40    <DIR>          .git
+10-07-2017  23:40                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  369,959,747,584 bytes free
